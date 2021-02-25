@@ -35,6 +35,6 @@ $ rosrun ril_mmr_python joint_test1.py
 ## Description    
 ![Screenshot](file:///home/park/Desktop/husky_ur5_gripper.png)  
 
-<img src="file:///home/park/Desktop/husky_ur5_gripper.png" alt="Screenshot" title="Screenshot" width="1000" height="600" >
+<img src="![husky_ur5_gripper](https://user-images.githubusercontent.com/78074831/109133146-08b8df80-7798-11eb-98a7-53325b398b83.png)" alt="Screenshot" title="Screenshot" width="1000" height="600" >
 
 
