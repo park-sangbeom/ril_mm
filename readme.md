@@ -31,8 +31,9 @@ $ rosrun ril_mmr_python husky_point.py
 
 - Contorlloing the RIL_MMR' arm and gripper    
 $ rosrun ril_mmr_python joint_test1.py 
-```    
+
 ## Description
-<img width="1000" src="file:///home/park/Desktop/husky_ur5_gripper.png"  alt="Screenshot" title="Screenshot">
+```    
+<img width="1000" src="/home/park/Desktop/husky_ur5_gripper.png"  alt="Screenshot" title="Screenshot">
 
 
