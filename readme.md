@@ -1,7 +1,7 @@
 # Robotics Intelligence Lab, Mobile Manipulator (RIL_MM)
  
 ## Overview
-The UR5 with Robotiq Gripper85 and Husky mobile manipulator tutorial will show you how to operate a mobile manipulator using Gazebo, RViz, MoveIt
+This mobile manipulator(UR5 with Robotiq Gripper85 and Husky) tutorial will  you how to operate a mobile manipulator using Gazebo, RViz, MoveIt
 
 
 
@@ -35,7 +35,7 @@ $ cd ~/catkin_ws/src/ril_mmr_python
 $ chmod +x husky_point.py
 $ rosrun ril_mmr_python husky_point.py 
 ```
-- Contorlloing the mobile manipuatlor arm and gripper   
+- Contorlloing the mobile manipuatlor's arm and gripper   
 ```
 $ cd ~/catkin_ws/src/ril_mmr_python
 $ chmod +x joint_test1.py
