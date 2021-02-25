@@ -33,6 +33,8 @@ $ rosrun ril_mmr_python husky_point.py
 $ rosrun ril_mmr_python joint_test1.py 
 
 ## Description    
-<img src="file:///home/park/Desktop/husky_ur5_gripper.png"  alt="Screenshot" title="Screenshot" width="1000" height="600" >
+![Screenshot](file:///home/park/Desktop/husky_ur5_gripper.png)  
+
+<img src="file:///home/park/Desktop/husky_ur5_gripper.png" alt="Screenshot" title="Screenshot" width="1000" height="600" >
 
 
