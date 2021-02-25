@@ -32,8 +32,7 @@ $ rosrun ril_mmr_python husky_point.py
 
 - Contorlloing the RIL_MMR' arm and gripper    
 $ rosrun ril_mmr_python joint_test1.py 
-- Spawning RIL_MMR on Gazebo and Rviz 
-$ rosrun ril_mmr_gazebo ril_mmr_empty_world.launch 
+
 ```
 
 ## Description
