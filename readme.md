@@ -47,4 +47,4 @@ $ rosrun ril_mmr_python joint_test1.py
 
 ## Description    
 
-<img width="800" height="500" src="https://user-images.githubusercontent.com/78074831/109133146-08b8df80-7798-11eb-98a7-53325b398b83.png"  alt="Screenshot" title="Screenshot">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/78074831/109133146-08b8df80-7798-11eb-98a7-53325b398b83.png"  alt="Screenshot" title="Screenshot">
