@@ -27,6 +27,7 @@ $ rosdep install --from-paths src --ignore-src -r -y
 - Spawning RIL_MMR on Gazebo and  Rviz
 $ rosrun ril_mmr_gazebo ril_mmr_empty_world.launch
 
+
 - Moving RIL_MMR to the goal point  
 $ rosrun ril_mmr_python husky_point.py 
 
