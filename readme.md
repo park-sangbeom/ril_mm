@@ -34,6 +34,8 @@ $ rosrun ril_mmr_python joint_test1.py
 ```
 
 ## Description
+<img width="1000" src="file:///home/park/Desktop/husky_ur5_gripper.png"  alt="Screenshot" title="Screenshot">
+
 
 
 ## Demo
