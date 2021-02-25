@@ -7,10 +7,10 @@ The UR5 with Robotiq Gripper85 and Husky mobile manipulation robot tutorial will
 **Author**   
 - **Sangbeom Park, [github]:https://github.com/Beom0611**  
 
-## Before start the tutorial, please check your ROS version, this pakage for ROS Melodic version
+### Before start the tutorial, please check your ROS version, this pakage for ROS Melodic version
 
 
-## Let's start it!
+## Guide
 
 - For RIL_MMR
 [UR5+Robotiq Gripper85+Husky Model](https://github.com/Beom0611/ril_mmr.git)  
