@@ -23,7 +23,7 @@ $ rosdep install --from-paths src --ignore-src -r -y
 ```
 
 ## Sample code for beginner 
-- Spawning RIL_MMR on Gazebo and Rviz
+- Spawning RIL_MMR on Gazebo and Rviz 
 $ roslaunch ril_mmr_gazebo ril_mmr_empty_world.launch
 
 - Moving RIL_MMR to the goal point  
