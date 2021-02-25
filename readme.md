@@ -1,4 +1,4 @@
-# Robot Intelligence Lab, Mobile Manipulator (RIL_MM)
+# Robot Intelligence Lab_Mobile Manipulator (RIL_MM)
  
 ## Overview
 This mobile manipulator(UR5 with Robotiq Gripper85 and Husky) tutorial will  you how to operate a mobile manipulator using Gazebo, RViz, MoveIt
