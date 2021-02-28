@@ -34,7 +34,7 @@ $ roslaunch ril_mm_gazebo ril_mm_empty_world.launch
 ```
 - Moving RIL_MMR to the goal point  
 ``` 
-$ cd ~/catkin_ws/src/ril_mmr_python   
+$ cd ~/catkin_ws/src/ril_mm_python   
 $ chmod +x husky_point.py
 $ rosrun ril_mm_python husky_point.py 
 ```
