@@ -34,5 +34,6 @@
     <child link = "ur5_base_link" />
     <origin xyz="0.25 0 0.0065" rpy="0.0 0.0 0.0" />
   </joint>
-
+  <xacro:include filename="$(find ril_mm_gazebo)/urdf/gzplugin_grasp_fix.urdf.xacro"/>
+  <xacro:gzplugin_grasp_fix/>
 </robot>
