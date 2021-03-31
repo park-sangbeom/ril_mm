@@ -5,9 +5,6 @@ This mobile manipulator(UR5 with Robotiq Gripper85 and Husky) tutorial will show
 
 
 
-**Author**   
-- **Sangbeom Park, [github]:https://github.com/Beom0611**  
-
 ### Before start this tutorial, please check your ROS version, this package for ROS Melodic version
 
 
@@ -27,7 +24,7 @@ $ rosdep install --from-paths src --ignore-src -r -y
 ```
 
 
-## Sample code for beginner 
+## Sample code for beginners 
 - Spawning RIL_MM in Gazebo and Rviz 
 ```  
 $ roslaunch ril_mm_gazebo ril_mm_empty_world.launch
@@ -45,6 +42,8 @@ $ chmod +x joint_test1.py
 $ rosrun ril_mm_python joint_test1.py 
 ```
 
+**More Info**   
+- **Sangbeom Park, [github]:https://github.com/Beom0611**  
 
 
 
