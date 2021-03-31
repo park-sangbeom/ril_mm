@@ -24,7 +24,7 @@ $ rosdep install --from-paths src --ignore-src -r -y
 ```
 
 
-## Sample code for beginners 
+## Sample codes for beginners 
 - Spawning RIL_MM in Gazebo and Rviz 
 ```  
 $ roslaunch ril_mm_gazebo ril_mm_empty_world.launch
