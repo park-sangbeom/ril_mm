@@ -13,7 +13,7 @@ This mobile manipulator(UR5 with Robotiq Gripper85 and Husky) tutorial will show
 
 - For RIL_MM
 [UR5+Robotiq Gripper85+Husky Model]  
-```
+```shell
 $ cd ~/catkin_ws/src && git clone https://github.com/ros-industrial/universal_robot.git
 $ cd ~/catkin_ws/src && git clone https://github.com/StanleyInnovation/robotiq_85_gripper.git
 $ cd ~/catkin_ws/src && git clone https://github.com/husky/husky.git
@@ -26,17 +26,17 @@ $ rosdep install --from-paths src --ignore-src -r -y
 
 ## Sample codes for beginners 
 - Spawning RIL_MM in Gazebo and Rviz 
-```  
+```shell  
 $ roslaunch ril_mm_gazebo ril_mm_empty_world.launch
 ```
 - Moving RIL_MM to the goal point  
-``` 
+```shell 
 $ cd ~/catkin_ws/src/ril_mm_python   
 $ chmod +x husky_point.py
 $ rosrun ril_mm_python husky_point.py 
 ```
 - Contorlloing the mobile manipuatlor's arm and gripper   
-```
+```shell
 $ cd ~/catkin_ws/src/ril_mm_python
 $ chmod +x joint_test1.py
 $ rosrun ril_mm_python joint_test1.py 
