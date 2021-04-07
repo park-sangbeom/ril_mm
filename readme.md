@@ -20,7 +20,7 @@ $ cd ~/catkin_ws/src && git clone https://github.com/husky/husky.git
 $ cd ~/catkin_ws/src && git clone https://github.com/Beom0611/ril_mm.git
 $ cd ~/catkin_ws && catkin_make
 $ rosdep update
-$ rosdep install --from-paths src --ignore-src -r -y
+$ cd ~/catk_ws && rosdep install --from-paths src --ignore-src -r -y
 ```
 
 
