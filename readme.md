@@ -15,7 +15,7 @@ This mobile manipulator(UR5 with Robotiq Gripper85 and Husky) tutorial will show
 [UR5+Robotiq Gripper85+Husky Model]  
 ```shell
 $ cd ~/catkin_ws/src && git clone https://github.com/ros-industrial/universal_robot.git
-$ cd ~/catkin_ws/src && git clone https://github.com/StanleyInnovation/robotiq_85_gripper.git
+$ cd ~/catkin_ws/src && git clone https://github.com/Beom0611/robotiq_85_gripper.git
 $ cd ~/catkin_ws/src && git clone https://github.com/husky/husky.git
 $ cd ~/catkin_ws/src && git clone https://github.com/Beom0611/ril_mm.git
 $ cd ~/catkin_ws && catkin_make
